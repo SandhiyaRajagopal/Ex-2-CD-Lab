@@ -1,6 +1,3 @@
-## Name:paida ram sai
-## Reg: 212223110034
-## Dept:212223110034
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
@@ -34,8 +31,11 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# INPUT
+# Program
 ~~~
+## Name:SANDHIYA R
+## Reg: 212223240146
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -81,7 +81,8 @@ int main() {
 ~~~
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/7b8a5973-c8d6-4b71-b816-6b720d6bcb0d)
+![Screenshot 2025-04-10 105116](https://github.com/user-attachments/assets/4acec551-236e-45ea-9d2a-263b2c4a61d1)
+
 
 
 # RESULT
