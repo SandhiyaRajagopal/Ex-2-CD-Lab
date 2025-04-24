@@ -1,6 +1,8 @@
-# Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL\
+# NAME - SANDHIYA R
+# REG NO - 212223240146
 # AIM
-## To write a lex program to implement lexical analyzer to recognize a few patterns.
+ To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
 1.	Start the program.
@@ -31,11 +33,8 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# Program
-~~~
-## Name:SANDHIYA R
-## Reg: 212223240146
-
+# PROGRAM
+```
 %{
 /* program to recognize a C program */
 int COMMENT = 0;
@@ -129,11 +128,11 @@ int main(int argc, char **argv) {
 int yywrap() { 
     return 1; 
 }
-~~~
+```
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/db2bc063-05e5-4aba-8bfa-4a0012c1c4d9)
+![image](https://github.com/user-attachments/assets/fd2c8b68-63f9-440a-b37e-c5403af76d3b)
 
 
 # RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+ The lexical analyzer is implemented using lex and the output is verified.
