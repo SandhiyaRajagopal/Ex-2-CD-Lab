@@ -1,5 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL\
 # NAME - SANDHIYA R
+# Date - 24/04/25
 # REG NO - 212223240146
 # AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
